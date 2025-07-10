@@ -1,10 +1,20 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohamed Faheem
 ======================================================================================================================================
 
-AI/ML Enthusiast with keen interest in Cloud computing
-------------------------------------------------------
+Python Developer - AI/ML Enthusiast with keen interest in Cloud computing
+-------------------------------------------------------------------------
 
-Enthusiastic and motivated student with a solid foundation in programming languages including Java, Python, and SQL. I have engaged in various academic projects that showcase my growing skills and commitment to learning. With a keen interest in artificial intelligence, machine learning, natural language processing, and large language models, I am eager to contribute to innovative projects and expand my technical expertise. I am adaptable and ready to embrace new challenges in a collaborative environment.
+Aspiring software and backend developer with strong foundations in Python, SQL, and Java. I’ve gained hands-on experience in cybersecurity, infrastructure, and testing during my internship at Thales (Cybersecurity & Digital Identity), contributing to open-source tools like:
+
+SQL Data Guard: A secure SQL query firewall enforcing column- and row-level restrictions.
+
+DataTrap Honeypot: An LLM-powered honeypot framework emulating SSH, HTTP, and MySQL protocols.
+
+I’ve also worked extensively with GitHub Actions, CI/CD workflows, Docker, and pytest for robust testing. Outside of work, I stay curious about AI/ML, NLP, and LLM-based systems, and have published an IEEE paper in the area of deepfake detection.
+
+I’m looking to contribute to teams building secure, scalable, and intelligent systems—across backend development, data platforms, or applied AI. I have engaged in various academic projects that showcase my growing skills and commitment to learning. I am adaptable and ready to embrace new challenges in a collaborative environment.
+
+I am also a dedicated team player, who values collaboration, innovation, and impact.
 
 * 🌍  I'm based in Chennai, Tamil Nadu, IND
 * ✉️  You can contact me at [mdfaheempasha@gmail.com](mailto:mdfaheempasha@gmail.com)
